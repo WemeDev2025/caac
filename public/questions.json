@@ -1,0 +1,16 @@
+[
+    {
+      "question_id": 1,
+      "question_text": "《民用无人驾驶航空器实名制登记管理规定》适用于（）的无人机。",
+      "options": ["A. 空机重量超过250克", "B. 最大起飞重量不高于7公斤的视距内运行", "C. 最大起飞重量不低于250克"],
+      "answer": "C",
+      "keywords": []
+    },
+    {
+      "question_id": 2,
+      "question_text": "I类无人机是指（）。",
+      "options": ["A. 空机质量>0kg，起飞全重≤1.5kg", "B. 空机质量≤0.5kg，起飞全重≤1.5kg", "C. 空机质量≤1kg，起飞全重≤2kg"],
+      "answer": "A",
+      "keywords": []
+    }
+  ]
