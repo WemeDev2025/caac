@@ -83,4 +83,4 @@ def update_keywords(question_id):
         return jsonify({'error': '服务器内部错误'}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5001)
+    app.run(debug=True, host="0.0.0.0", port=5001)
